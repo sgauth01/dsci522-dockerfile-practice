@@ -1,11 +1,11 @@
 # Software
 
-The original GitHub Workflows code was copied from the ttimbers/dsci522-dockerfile-practice/docker-publish.yml repository:
-<https://github.com/ttimbers/dsci522-dockerfile-practice>
+The original GitHub Workflows code (in the [docker-publish.yml file](docker-publish.yml)) was copied from the ttimbers/dsci522-dockerfile-practice/docker-publish.yml repository:
+<https://github.com/ttimbers/dsci522-dockerfile-practice>. This MIT License applies to that code.
 
 MIT License
 
-Copyright (c) 2025 Sarah Gauthier
+Copyright (c) 2024 Tiffany A. Timbers
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
