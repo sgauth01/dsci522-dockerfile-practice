@@ -1,7 +1,7 @@
 # Software
 
-The original GitHub Workflows code (in the [docker-publish.yml file](docker-publish.yml)) was copied from the ttimbers/dsci522-dockerfile-practice/docker-publish.yml repository:
-<https://github.com/ttimbers/dsci522-dockerfile-practice>. This MIT License applies to that code.
+The original GitHub Workflows code (in the [docker-publish.yml](docker-publish.yml) file) was copied from the ttimbers/dsci522-dockerfile-practice/docker-publish.yml repository:
+<https://github.com/ttimbers/dsci522-dockerfile-practice>. The following MIT License applies to that code.
 
 MIT License
 
